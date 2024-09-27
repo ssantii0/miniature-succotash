@@ -1,1 +1,26 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background-color: ghostwhite;
+  display: flex;
+  padding: 17%;
+}
+#container-fluid text-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+#generador {
+  font-size: 25px;
+  background-color: white;
+  margin: 5%;
+}
+#excusas {
+  font-size: 25px;
+  margin: 5%;
+}
+
+#respuesta {
+  font-size: 25px;
+  margin: 5%;
+}
